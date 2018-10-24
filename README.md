@@ -34,6 +34,17 @@ In each section I will provide you with some leading questions to answer, either
 - Where can you find all the config options?
 
 ### 4 TypeScript and ES6
+-  Which variable declarations are es6 or es5?
+-  Explain block scope.  Is "let" block-scoped?
+-  What is an arrow function?  Why use an arrow function?
+-  Show a few examples of arrow functions, some with an implicit output and some where you need to return with curly-brackets. Some with inputs some with no inputs.
+-  Show an example with default parameters.
+-  What is a spread operator?  Why is it useful?
+-  How does the compiler determine if the triple dots is a spread operator or a rest operator?
+-  Show examples for destructuring arrays and objects.
+-  Which symbols do we use for template literals?
+-  How can we insert variables & functions into template variables?
+
 ### 5 Using classes to create objects
 ### 6 Namespaces and modules
 ### 7 Doing contract work with interfaces
